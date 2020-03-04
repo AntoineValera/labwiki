@@ -15,7 +15,7 @@ Welcome to Silverlab's documentation!
    rigs/acquisition
    rigs/hardware
    faqs <rigs/faqs>
-   data\dataindex
+   data/dataindex
    rigusers
    rigbuild
    
