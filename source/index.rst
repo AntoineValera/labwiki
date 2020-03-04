@@ -12,11 +12,7 @@ Welcome to Silverlab's documentation!
 
    general/labsite
    general/repos
-   rigs/acquisition
-   rigs/hardware
-   rigs/users
-   rigs/build
-   rigs/faqs
+   rigs/rigsindex
    data/dataindex
 
 
