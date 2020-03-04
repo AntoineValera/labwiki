@@ -3,17 +3,6 @@
 What to do with Data
 ####################
 
-.. toctree::
-   :maxdepth: 2
-   :caption: See also:
-   
-   Storage
-   
-   data/preprocess
-   data/nwb
-   data/behaviour
-
-
 Storage
 =======
 

@@ -16,6 +16,9 @@ Welcome to Silverlab's documentation!
    rigs/hardware
    faqs <rigs/faqs>
    data/dataindex
+   data/preprocess
+   data/nwb
+   data/behaviour
    rigusers
    rigbuild
    
