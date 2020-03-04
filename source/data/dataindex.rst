@@ -3,6 +3,12 @@
 What to do with Data
 ####################
 
+.. toctree::
+
+   preprocess
+   nwb
+   behaviour
+   
 Storage
 =======
 
