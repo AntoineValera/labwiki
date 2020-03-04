@@ -9,20 +9,25 @@ Welcome to Silverlab's documentation!
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
-   
-   general/repos
+   :hidden:
    general/labsite
+   general/repos
    rigs/acquisition
    rigs/hardware
-   faqs <rigs/faqs>
+   rigs/users
+   rigs/build
+   rigs/faqs
    data/dataindex
    data/preprocess
    data/nwb
    data/behaviour
-   rigusers
-   rigbuild
-   
+   data/faqs
 
+Some useful links:
+- General
+- What to do with Data
+- Repositories
+- Frequently Asked Questions
 
 Indices and tables
 ==================
