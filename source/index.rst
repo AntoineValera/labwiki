@@ -15,7 +15,6 @@ Welcome to Silverlab's documentation!
    rigs/acquisition
    rigs/hardware
    faqs <rigs/faqs>
-   Data FaQs <data/faq>
    data/preprocess
    data/nwb
    data/behaviour
