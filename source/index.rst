@@ -9,7 +9,7 @@ Welcome to Silverlab's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   :hidden:
+
    general/labsite
    general/repos
    rigs/acquisition
@@ -19,15 +19,8 @@ Welcome to Silverlab's documentation!
    rigs/faqs
    data/dataindex
    data/preprocess
-   data/nwb
-   data/behaviour
-   data/faqs
 
-Some useful links:
-- General
-- What to do with Data
-- Repositories
-- Frequently Asked Questions
+
 
 Indices and tables
 ==================
