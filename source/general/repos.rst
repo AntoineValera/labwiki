@@ -20,6 +20,10 @@ Neuromatic
 Includes electrophysiological acquisition and analysis
 Repo: https://github.com/SilverLabUCL/NeuroMatic
 
+
+Analysis
+---------
+
 Common Data Preprocessing
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Under development - for standardised pipeline for preprocessing and common analyses.

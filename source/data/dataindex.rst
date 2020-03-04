@@ -4,7 +4,6 @@ What to do with Data
 ####################
 
 .. toctree::
-   :caption: See also:
    preprocess
    nwb
    behaviour
@@ -19,7 +18,7 @@ Data Formats
 
 Acquisition
 ^^^^^^^^^^^
-Labview Functional Imaging Data is saved as separate TDMS per trial. Matlab acquisition saves separate .mat files per ROI and Trial. Each Video camera saves binary files for whole recording. For analyses, videos are exported to .avi (compressed), and functional data exported to TIFFS or .mat. See separate section for more details :ref:`preprocess`
+Labview Functional Imaging Data is saved as separate TDMS per trial. Matlab acquisition saves separate .mat files per ROI and Trial. Each Video camera saves binary files for whole recording. For analyses, videos are exported to .avi (compressed), and functional data exported to TIFFS or .mat. See separate section for more details: :ref:`preprocess`
 
 Processing
 ^^^^^^^^^^
