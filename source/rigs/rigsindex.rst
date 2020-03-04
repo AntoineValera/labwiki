@@ -9,4 +9,4 @@ All About Rigs
    users
    development
    faqs
-   
+   currparams
