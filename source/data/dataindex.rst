@@ -4,8 +4,10 @@ What to do with Data
 ####################
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: See also:
+   
+   Storage
    
    data/preprocess
    data/nwb
@@ -24,7 +26,7 @@ Acquisition
 -----------
 Labview Functional Imaging Data is saved as separate TDMS per trial. Matlab acquisition saves separate .mat files per ROI and Trial. Each Video camera saves binary files for whole recording. For analyses, videos are exported to .avi (compressed), and functional data exported to TIFFS or .mat. See separate section for more details :ref:`preprocess`
 
-Formats
--------
+Processing
+----------
 Data is formatted as x-y-z-time-channel-roi-trial [where x refers to scanning direction, and z=1 except for volume scans]
 For variable scans, data is a cell array [roi x trial] of 5D data structures [ x-y-z-time-channel ]
