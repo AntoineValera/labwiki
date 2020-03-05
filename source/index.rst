@@ -14,6 +14,7 @@ Welcome to the Silverlab Wiki!
    general/repos
    rigs/rigsindex
    data/dataindex
+   expt/exptindex
 
 
 
