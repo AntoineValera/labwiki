@@ -1,5 +1,5 @@
 General Lab Info
-===============
+=================
 
 
 We have weekly lab meetings (Data Club) every Thursday, 9 am - 11 am. This includes Round Robin and one data/paper presentation.
