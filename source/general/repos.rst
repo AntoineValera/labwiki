@@ -16,6 +16,7 @@ Includes acquisition with nonlinear drives eg RibbonScans, as well as online ana
 
 Repo: https://github.com/SilverLabUCL/microscope_controller
 
+This is a private repository. You must be logged in and listed as collaborator to have access
 
 Neuromatic
 ^^^^^^^^^^
